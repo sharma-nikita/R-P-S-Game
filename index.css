@@ -1,0 +1,20 @@
+h1{
+    align-items: center;
+    color: blue;
+    margin: 0px;
+    margin-left: 20%;
+}
+#main{
+    margin-top: 20px;
+    margin-left: 20%;
+}
+#userResult{
+    margin-top: 20px;
+    font-weight: bold;
+    color: blue;
+}
+#computerResult{
+    margin-top: 20px;
+    font-weight: bold;
+    color: red;
+}
